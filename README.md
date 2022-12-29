@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lekhaksub
 - 👀 I’m interested in React JS, Frontend
 - 🌱 I’m currently learning HTML CSS JavaScript
-- 💞️ I’m looking to collaborate on HTML CSS
+- 💞️ I’m looking to collaborate on HTML CSS JavaScript
 - 📫 How to reach me- lekhak.sub@gmail.com
 
 <!---
