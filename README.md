@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lekhaksub
-- 👀 I’m interested in React JS, Frontend
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on HTML CSS JavaScript
+- 👀 I’m interested in Swift, UIKit, SwiftUI, Xcode
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on iOS App development
 - 📫 How to reach me- lekhak.sub@gmail.com
 
 <!---
