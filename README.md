@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lekhaksub
+- 👋 Hi, I’m Shubham Lekhak @lekhaksub
 - 👀 I’m interested in Swift, UIKit, SwiftUI, Xcode
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on iOS App development
